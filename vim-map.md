@@ -86,5 +86,17 @@
 
 ## Special keys and functions when using operator-pending mode map
 
+### omap and onoremap
+
+You can create maps that work when waiting for a motion command or text object from an operator command. 
+
+### Notes
+* To change the starting location of the operator from a operator-pending mode map, you can start visual mode and select the desired range of characters. One disadvantage in starting visual mode is that the previous visual region will be lost.
+
+## Mapping Mouse Events
+
+ 
+
+
 Next:
 [vim-autocommand](~/notes/vim-autocommand.md)
