@@ -21,7 +21,7 @@ Note: change _if_ with _when_ when you are talking about a real situation.
 ## Examples
 * If I lose my umbrella, I will buy another one.
 * If I lose my umbrella, I might buy another one. (less likely result)
-* When I lose my umbrella, I will by another one. (real situation)
+* When I lose my umbrella, I will buy another one. (real situation)
 * If I visit Mexico, I will stay with my friends.
 * They will go to the beach if it's sunny.
 * If Michal passes his exams, we'll have a party for him.
