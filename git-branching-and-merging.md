@@ -34,7 +34,10 @@ Renames the current branch to <branch name>.
 Lists all remote branches.
 
 ## `git branch --merged`.
-Show which branches are merged.
+Shows which branches are merged.
+
+## `git branch -vv`
+Shows local branches and their remote tracking branches. It also shows the hash code and commit message of the latest commit. It also tells you if the remote branch has been deleted.
 
 ## `git checkout <branch name>`
 Changes the current branch to the given branch. HEAD now will point to this branch.
