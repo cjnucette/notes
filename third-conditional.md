@@ -3,10 +3,11 @@
 It is used to express an alternative behavior based on a different (imaginary) event in the past. One example could be to express regret.
 
 ## Parts
-1. if + subject +  past perfect (not): _describes an alternative past situation (different from the actual past situation)_
-2. Subject + would (not) have (infinitive) + past participle: _describes the result_
-
-Note: _could, should, may_, and _might_ can be used instead of _would_.
+1. if + subject +  past perfect (had + [not] + infinitive):
+    * describes an alternative past situation (different from the actual past situation)
+2. Subject + would [not] + present perfect (have + infinitive):
+    * describes the result
+    * _could, should, may_, and _might_ can be used instead of _would_. (see [First Conditional](./first-conditional.md))
 
 ## Examples
 * If I __had been__ sick, I __would have gone__ to the doctor.
@@ -16,4 +17,4 @@ Note: _could, should, may_, and _might_ can be used instead of _would_.
 * If I__'d worked__ harder, I __would've passed__ the exam! (spoken)
 * If I __hadn't eaten__ that ice-cream, I __wouldn't have felt__ so sick!
 
-[secondConditional](./secondConditional.md)
+[Second Conditional](./second-conditional.md)

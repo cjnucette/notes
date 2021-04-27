@@ -22,7 +22,7 @@ Lists all branches. Same as `git branch --list`
 Creates a new branch. The branches will be instantiated where the HEAD pointer is pointing to. This does not checkout the new branch.
 
 ## `git branch -d <branch name>`.
-Deletes the given branch, but only if it doesn't have unmerged changes.
+Deletes the given branch, but only if it doesn't have un-merged changes.
 
 ## `git branch -D <branch name>`.
 Forces delete the given branch, even if it hasn't been merged.
@@ -45,7 +45,7 @@ Changes the current branch to the given branch. HEAD now will point to this bran
 ## `git checkout -b <branch name>`
 Changes the current branch to the give branch, and creates it if it doesn't exists.
 
-## `git checkout <SHA-1 hash>`
+## `git checkout <commit>`
 Checks out the given commit hash, if this commit does not have a branch associated with it, then we get a `detached HEAD` warning. In this state we can make experimental changes and commit them without affecting any other branch.
 
 ## `git switch -c <new-branch-name>`
